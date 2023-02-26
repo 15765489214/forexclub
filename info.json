@@ -1,0 +1,1654 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://fokasbeyond.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 162441,
+            "children": [
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-grayscale",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-purple-yellow",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-blue-red",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-midnight",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-magenta-yellow",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-purple-green",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/#wp-duotone-blue-orange",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/10/092622-Fokas-Beyond-Content-Below-Slider-Final-2434x1000-1.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/07/FB-Home-Page-Contact-us.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2014/11/fokas-logo.png",
+                    "path": "img/fokas-logo.png",
+                    "saved": true,
+                    "size": 23822
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+                    "path": "img/dummy.png",
+                    "saved": true,
+                    "size": 68
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/04/George-Fokas.png",
+                    "path": "img/George-Fokas.png",
+                    "saved": true,
+                    "size": 505681
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/04/bryan-c-50x50-1.jpg",
+                    "path": "img/bryan-c-50x50-1.jpeg",
+                    "saved": true,
+                    "size": 2748
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/04/fabe-keily-50x50-1.jpg",
+                    "path": "img/fabe-keily-50x50-1.jpeg",
+                    "saved": true,
+                    "size": 2876
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/04/mathew-james-50x50-1.jpg",
+                    "path": "img/mathew-james-50x50-1.jpeg",
+                    "saved": true,
+                    "size": 2672
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2015/02/pat-mesiti.jpg",
+                    "path": "img/pat-mesiti.jpeg",
+                    "saved": true,
+                    "size": 4251
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2015/02/sanja-slika-100x100.jpg",
+                    "path": "img/sanja-slika-100x100.jpeg",
+                    "saved": true,
+                    "size": 4361
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2015/02/couple_small-150x150-100x100.png",
+                    "path": "img/couple_small-150x150-100x100.png",
+                    "saved": true,
+                    "size": 24051
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-4-1.png",
+                    "path": "img/iPad-Portrait-4-1.png",
+                    "saved": true,
+                    "size": 283908
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-9-1.png",
+                    "path": "img/Phone-Portrait-9-1.png",
+                    "saved": true,
+                    "size": 132856
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-11-1.png",
+                    "path": "img/iPad-Portrait-11-1.png",
+                    "saved": true,
+                    "size": 227397
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-1-1.png",
+                    "path": "img/iPad-Portrait-1-1.png",
+                    "saved": true,
+                    "size": 173714
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-1-1.png",
+                    "path": "img/Phone-Portrait-1-1.png",
+                    "saved": true,
+                    "size": 207966
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-2-1.png",
+                    "path": "img/iPad-Portrait-2-1.png",
+                    "saved": true,
+                    "size": 202138
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-12-1.png",
+                    "path": "img/iPad-Portrait-12-1.png",
+                    "saved": true,
+                    "size": 188635
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-3-1.png",
+                    "path": "img/Phone-Portrait-3-1.png",
+                    "saved": true,
+                    "size": 85152
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-6-1.png",
+                    "path": "img/iPad-Portrait-6-1.png",
+                    "saved": true,
+                    "size": 219649
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-9-1.png",
+                    "path": "img/iPad-Portrait-9-1.png",
+                    "saved": true,
+                    "size": 212070
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-4-1.png",
+                    "path": "img/Phone-Portrait-4-1.png",
+                    "saved": true,
+                    "size": 80241
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-10-1.png",
+                    "path": "img/iPad-Portrait-10-1.png",
+                    "saved": true,
+                    "size": 196576
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-13-1.png",
+                    "path": "img/iPad-Portrait-13-1.png",
+                    "saved": true,
+                    "size": 281997
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-5-1.png",
+                    "path": "img/Phone-Portrait-5-1.png",
+                    "saved": true,
+                    "size": 82513
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-8-1.png",
+                    "path": "img/iPad-Portrait-8-1.png",
+                    "saved": true,
+                    "size": 81193
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-8-2.png",
+                    "path": "img/Phone-Portrait-8-2.png",
+                    "saved": true,
+                    "size": 142590
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-14.png",
+                    "path": "img/iPad-Portrait-14.png",
+                    "saved": true,
+                    "size": 265226
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-6-1.png",
+                    "path": "img/Phone-Portrait-6-1.png",
+                    "saved": true,
+                    "size": 83910
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-10-1.png",
+                    "path": "img/Phone-Portrait-10-1.png",
+                    "saved": true,
+                    "size": 116915
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-7-1.png",
+                    "path": "img/Phone-Portrait-7-1.png",
+                    "saved": true,
+                    "size": 103054
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-11.png",
+                    "path": "img/Phone-Portrait-11.png",
+                    "saved": true,
+                    "size": 133543
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-5-1.png",
+                    "path": "img/iPad-Portrait-5-1.png",
+                    "saved": true,
+                    "size": 292350
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-1.png",
+                    "path": "img/iPad-Landscape-1.png",
+                    "saved": true,
+                    "size": 146847
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-3.png",
+                    "path": "img/iPad-Landscape-3.png",
+                    "saved": true,
+                    "size": 136839
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-5.png",
+                    "path": "img/iPad-Landscape-5.png",
+                    "saved": true,
+                    "size": 139797
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-4.png",
+                    "path": "img/iPad-Landscape-4.png",
+                    "saved": true,
+                    "size": 126681
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-7.png",
+                    "path": "img/iPad-Landscape-7.png",
+                    "saved": true,
+                    "size": 163852
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-6p1.png",
+                    "path": "img/iPad-Landscape-6p1.png",
+                    "saved": true,
+                    "size": 152290
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-6p2.png",
+                    "path": "img/iPad-Landscape-6p2.png",
+                    "saved": true,
+                    "size": 114030
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Landscape-2.png",
+                    "path": "img/iPad-Landscape-2.png",
+                    "saved": true,
+                    "size": 113218
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/04/p-blog-investingsmartway_9-600x400.jpg",
+                    "path": "img/p-blog-investingsmartway_9-600x400.jpeg",
+                    "saved": true,
+                    "size": 45765
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/04/p-blog-investingsmartway_8-600x400.jpg",
+                    "path": "img/p-blog-investingsmartway_8-600x400.jpeg",
+                    "saved": true,
+                    "size": 44244
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/03/p-blog-investingsmartway_7-600x400.jpg",
+                    "path": "img/p-blog-investingsmartway_7-600x400.jpeg",
+                    "saved": true,
+                    "size": 41729
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/07/Hardcover-Book-Covered-Call-191x300.png",
+                    "path": "img/Hardcover-Book-Covered-Call-191x300.png",
+                    "saved": true,
+                    "size": 75731
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-4-1-229x300.png",
+                    "path": "img/iPad-Portrait-4-1-229x300.png",
+                    "saved": true,
+                    "size": 54323
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-9-1-158x300.png",
+                    "path": "img/Phone-Portrait-9-1-158x300.png",
+                    "saved": true,
+                    "size": 35673
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-11-1-229x300.png",
+                    "path": "img/iPad-Portrait-11-1-229x300.png",
+                    "saved": true,
+                    "size": 40293
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-1-1-229x300.png",
+                    "path": "img/iPad-Portrait-1-1-229x300.png",
+                    "saved": true,
+                    "size": 26061
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-1-1-158x300.png",
+                    "path": "img/Phone-Portrait-1-1-158x300.png",
+                    "saved": true,
+                    "size": 37911
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-2-1-229x300.png",
+                    "path": "img/iPad-Portrait-2-1-229x300.png",
+                    "saved": true,
+                    "size": 35698
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-12-1-229x300.png",
+                    "path": "img/iPad-Portrait-12-1-229x300.png",
+                    "saved": true,
+                    "size": 30312
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-3-1-158x300.png",
+                    "path": "img/Phone-Portrait-3-1-158x300.png",
+                    "saved": true,
+                    "size": 21999
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-6-1-229x300.png",
+                    "path": "img/iPad-Portrait-6-1-229x300.png",
+                    "saved": true,
+                    "size": 37615
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-9-1-229x300.png",
+                    "path": "img/iPad-Portrait-9-1-229x300.png",
+                    "saved": true,
+                    "size": 38147
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-4-1-158x300.png",
+                    "path": "img/Phone-Portrait-4-1-158x300.png",
+                    "saved": true,
+                    "size": 20432
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-10-1-229x300.png",
+                    "path": "img/iPad-Portrait-10-1-229x300.png",
+                    "saved": true,
+                    "size": 31908
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-13-1-229x300.png",
+                    "path": "img/iPad-Portrait-13-1-229x300.png",
+                    "saved": true,
+                    "size": 53833
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-5-1-158x300.png",
+                    "path": "img/Phone-Portrait-5-1-158x300.png",
+                    "saved": true,
+                    "size": 20210
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-8-1-229x300.png",
+                    "path": "img/iPad-Portrait-8-1-229x300.png",
+                    "saved": true,
+                    "size": 42029
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-8-2-158x300.png",
+                    "path": "img/Phone-Portrait-8-2-158x300.png",
+                    "saved": true,
+                    "size": 36116
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-14-229x300.png",
+                    "path": "img/iPad-Portrait-14-229x300.png",
+                    "saved": true,
+                    "size": 48866
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-6-1-158x300.png",
+                    "path": "img/Phone-Portrait-6-1-158x300.png",
+                    "saved": true,
+                    "size": 22216
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-10-1-158x300.png",
+                    "path": "img/Phone-Portrait-10-1-158x300.png",
+                    "saved": true,
+                    "size": 30752
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-7-1-158x300.png",
+                    "path": "img/Phone-Portrait-7-1-158x300.png",
+                    "saved": true,
+                    "size": 24394
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/Phone-Portrait-11-158x300.png",
+                    "path": "img/Phone-Portrait-11-158x300.png",
+                    "saved": true,
+                    "size": 32813
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/07/iPad-Portrait-5-1-229x300.png",
+                    "path": "img/iPad-Portrait-5-1-229x300.png",
+                    "saved": true,
+                    "size": 40688
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/07/Hardcover-Book-Covered-Call.png",
+                    "path": "img/Hardcover-Book-Covered-Call.png",
+                    "saved": true,
+                    "size": 189259
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89684
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+                    "path": "js/jquery-migrate.min.js",
+                    "saved": true,
+                    "size": 11224
+                },
+                {
+                    "url": "https://player.vimeo.com/api/player.js",
+                    "path": "js/player.js",
+                    "saved": true,
+                    "size": 21211,
+                    "children": [
+                        {
+                            "url": "https://player.vimeo.com/api/skin/layer.css",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://player.vimeo.com/api/skin/default/layer.css",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://app.ontraport.com/js/ontraport/opt_assets/drivers/opf.js",
+                    "path": "js/opf.js",
+                    "saved": true,
+                    "size": 68088
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=AW-697235140",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 12948
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.10",
+                    "path": "js/rbtools.min.js",
+                    "saved": true,
+                    "size": 165505
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.10",
+                    "path": "js/rs6.min.js",
+                    "saved": true,
+                    "size": 413453
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/scripts.js?ver=3.7.9",
+                    "path": "js/scripts.js",
+                    "saved": true,
+                    "size": 191031
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/jquery.prettyPhoto.js?ver=3.7.9",
+                    "path": "js/jquery.prettyPhoto.js",
+                    "saved": true,
+                    "size": 21874
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/jquery.pace.js?ver=3.7.9",
+                    "path": "js/jquery.pace.js",
+                    "saved": true,
+                    "size": 12321
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/jquery.flexslider.js?ver=3.7.9",
+                    "path": "js/jquery.flexslider.js",
+                    "saved": true,
+                    "size": 16672
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/jquery.validate.js?ver=3.7.9",
+                    "path": "js/jquery.validate.js",
+                    "saved": true,
+                    "size": 20913
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/responsivecarousel.min.js?ver=3.7.9",
+                    "path": "js/responsivecarousel.min.js",
+                    "saved": true,
+                    "size": 8022
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/jquery.owl.carousel.min.js?ver=3.7.9",
+                    "path": "js/jquery.owl.carousel.min.js",
+                    "saved": true,
+                    "size": 44342
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/js/jquery.custom.js?ver=3.7.9",
+                    "path": "js/jquery.custom.js",
+                    "saved": true,
+                    "size": 81363
+                },
+                {
+                    "url": "https://www.google.com/recaptcha/api.js?render=6Lfj7sQgAAAAAAUk4tJYJf9Lpl2B6OEzeRbp2K4L&ver=3.0",
+                    "path": "js/api.js",
+                    "saved": true,
+                    "size": 887
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9",
+                    "path": "js/regenerator-runtime.min.js",
+                    "saved": true,
+                    "size": 6475
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+                    "path": "js/wp-polyfill.min.js",
+                    "saved": true,
+                    "size": 17823
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.4",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0",
+                    "path": "js/js_composer_front.min.js",
+                    "saved": true,
+                    "size": 20050
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=6.10.0",
+                    "path": "js/vc-accordion.min.js",
+                    "saved": true,
+                    "size": 11025
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=6.10.0",
+                    "path": "js/vc-tta-autoplay.min.js",
+                    "saved": true,
+                    "size": 2545
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=6.10.0",
+                    "path": "js/vc-tabs.min.js",
+                    "saved": true,
+                    "size": 4168
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1",
+                    "path": "css/style.min.css",
+                    "saved": true,
+                    "size": 94886,
+                    "children": []
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-includes/css/classic-themes.min.css?ver=1",
+                    "path": "css/classic-themes.min.css",
+                    "saved": true,
+                    "size": 217
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4",
+                    "path": "css/styles.css",
+                    "saved": true,
+                    "size": 2859
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/style.css?ver=3.7.9",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 258079,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/select-icon.png",
+                            "path": "img/select-icon.png",
+                            "saved": true,
+                            "size": 519
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/loader.gif",
+                            "path": "img/loader.gif",
+                            "saved": true,
+                            "size": 2506
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/assets/images/AjaxLoader.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/plus-icon.png",
+                            "path": "img/plus-icon.png",
+                            "saved": true,
+                            "size": 115
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/plus.cur",
+                            "path": "css/plus.cur",
+                            "saved": true,
+                            "size": 26622
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/plus.png",
+                            "path": "img/plus.png",
+                            "saved": true,
+                            "size": 101
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/prettyPhoto/default/default_thumb.png",
+                            "path": "img/default_thumb.png",
+                            "saved": true,
+                            "size": 417
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/prettyPhoto/default/sprite.png",
+                            "path": "img/sprite.png",
+                            "saved": true,
+                            "size": 3311
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/prettyPhoto/default/loader.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/prettyPhoto/facebook/default_thumbnail.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/prettyPhoto/light_rounded/loader.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/prettyPhoto/dark_rounded/contentPattern.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/images/preloader.gif",
+                            "path": "img/preloader.gif",
+                            "saved": true,
+                            "size": 3739
+                        },
+                        {
+                            "url": "data-uri",
+                            "path": "data-uri/svg/svg_b8b44.svg",
+                            "saved": true,
+                            "size": 180
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/responsive.css?ver=3.7.9",
+                    "path": "css/responsive.css",
+                    "saved": true,
+                    "size": 11693
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons.css?ver=3.7.9",
+                    "path": "css/icons.css",
+                    "saved": true,
+                    "size": 113153,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.eot",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 165016
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.woff2",
+                            "path": "fonts/fontawesome-webfont.woff2",
+                            "saved": true,
+                            "size": 76348
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.woff",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 97740
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.ttf",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 164836
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/fontawesome-webfont.svg#fontawesomeregular",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 444380
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/Icomoon.eot",
+                            "path": "fonts/Icomoon.eot",
+                            "saved": true,
+                            "size": 263012
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/Icomoon.woff2",
+                            "path": "fonts/Icomoon.woff2",
+                            "saved": true,
+                            "size": 82224
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/Icomoon.woff",
+                            "path": "fonts/Icomoon.woff",
+                            "saved": true,
+                            "size": 262924
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/Icomoon.ttf",
+                            "path": "fonts/Icomoon.ttf",
+                            "saved": true,
+                            "size": 262848
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/Icomoon.svg#Icomoon",
+                            "path": "img/Icomoon.svg",
+                            "saved": true,
+                            "size": 596659
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/hbicons.eot",
+                            "path": "fonts/hbicons.eot",
+                            "saved": true,
+                            "size": 7560
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/hbicons.woff2",
+                            "path": "fonts/hbicons.woff2",
+                            "saved": true,
+                            "size": 2712
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/hbicons.woff",
+                            "path": "fonts/hbicons.woff",
+                            "saved": true,
+                            "size": 3604
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/hbicons.ttf",
+                            "path": "fonts/hbicons.ttf",
+                            "saved": true,
+                            "size": 7396
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/icons/hbicons.svg#hbicons",
+                            "path": "img/hbicons.svg",
+                            "saved": true,
+                            "size": 17205
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/highend/dynamic-styles.css?ver=1670833731",
+                    "path": "css/dynamic-styles.css",
+                    "saved": true,
+                    "size": 13032,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-regular-webfont.eot",
+                            "path": "fonts/sourcesanspro-regular-webfont.eot",
+                            "saved": true,
+                            "size": 31616
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-regular-webfont.woff2",
+                            "path": "fonts/sourcesanspro-regular-webfont.woff2",
+                            "saved": true,
+                            "size": 13528
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-regular-webfont.woff",
+                            "path": "fonts/sourcesanspro-regular-webfont.woff",
+                            "saved": true,
+                            "size": 18336
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-regular-webfont.ttf",
+                            "path": "fonts/sourcesanspro-regular-webfont.ttf",
+                            "saved": true,
+                            "size": 31408
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular",
+                            "path": "img/sourcesanspro-regular-webfont.svg",
+                            "saved": true,
+                            "size": 224799
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-bold-webfont.eot",
+                            "path": "fonts/sourcesanspro-bold-webfont.eot",
+                            "saved": true,
+                            "size": 31580
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-bold-webfont.woff2",
+                            "path": "fonts/sourcesanspro-bold-webfont.woff2",
+                            "saved": true,
+                            "size": 13592
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-bold-webfont.woff",
+                            "path": "fonts/sourcesanspro-bold-webfont.woff",
+                            "saved": true,
+                            "size": 18512
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-bold-webfont.ttf",
+                            "path": "fonts/sourcesanspro-bold-webfont.ttf",
+                            "saved": true,
+                            "size": 31368
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/sourcesanspro-bold-webfont.svg#source_sans_probold",
+                            "path": "img/sourcesanspro-bold-webfont.svg",
+                            "saved": true,
+                            "size": 217678
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/SourceSansPro-Semibold.eot",
+                            "path": "fonts/SourceSansPro-Semibold.eot",
+                            "saved": true,
+                            "size": 25358
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/SourceSansPro-Semibold.woff2",
+                            "path": "fonts/SourceSansPro-Semibold.woff2",
+                            "saved": true,
+                            "size": 10576
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/SourceSansPro-Semibold.woff",
+                            "path": "fonts/SourceSansPro-Semibold.woff",
+                            "saved": true,
+                            "size": 14132
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/SourceSansPro-Semibold.ttf",
+                            "path": "fonts/SourceSansPro-Semibold.ttf",
+                            "saved": true,
+                            "size": 25128
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/SourceSansPro-Semibold.svg#SourceSansPro-Semibold",
+                            "path": "img/SourceSansPro-Semibold.svg",
+                            "saved": true,
+                            "size": 69439
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/Museo500-Regular-webfont.eot",
+                            "path": "fonts/Museo500-Regular-webfont.eot",
+                            "saved": true,
+                            "size": 26800
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/Museo500-Regular-webfont.woff2",
+                            "path": "fonts/Museo500-Regular-webfont.woff2",
+                            "saved": true,
+                            "size": 11608
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/Museo500-Regular-webfont.woff",
+                            "path": "fonts/Museo500-Regular-webfont.woff",
+                            "saved": true,
+                            "size": 15396
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/Museo500-Regular-webfont.ttf",
+                            "path": "fonts/Museo500-Regular-webfont.ttf",
+                            "saved": true,
+                            "size": 26604
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/themes/HighendWP/assets/css/fonts/Museo500-Regular-webfont.svg#Museo300Regular",
+                            "path": "img/Museo500-Regular-webfont.svg",
+                            "saved": true,
+                            "size": 74837
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0",
+                    "path": "css/js_composer.min.css",
+                    "saved": true,
+                    "size": 461791,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/vc/alert.png",
+                            "path": "img/alert.png",
+                            "saved": true,
+                            "size": 302
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/vc/info.png",
+                            "path": "img/info.png",
+                            "saved": true,
+                            "size": 323
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/vc/tick.png",
+                            "path": "img/tick.png",
+                            "saved": true,
+                            "size": 244
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/vc/exclamation.png",
+                            "path": "img/exclamation.png",
+                            "saved": true,
+                            "size": 495
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png",
+                            "path": "img/address-book.png",
+                            "saved": true,
+                            "size": 712
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png",
+                            "path": "img/alarm-clock.png",
+                            "saved": true,
+                            "size": 841
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png",
+                            "path": "img/anchor.png",
+                            "saved": true,
+                            "size": 694
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png",
+                            "path": "img/application-image.png",
+                            "saved": true,
+                            "size": 544
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png",
+                            "path": "img/arrow.png",
+                            "saved": true,
+                            "size": 590
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png",
+                            "path": "img/asterisk.png",
+                            "saved": true,
+                            "size": 682
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png",
+                            "path": "img/auction-hammer.png",
+                            "saved": true,
+                            "size": 705
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png",
+                            "path": "img/balloon.png",
+                            "saved": true,
+                            "size": 674
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png",
+                            "path": "img/balloon-buzz.png",
+                            "saved": true,
+                            "size": 717
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png",
+                            "path": "img/balloon-facebook.png",
+                            "saved": true,
+                            "size": 691
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png",
+                            "path": "img/balloon-twitter.png",
+                            "saved": true,
+                            "size": 700
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png",
+                            "path": "img/battery-full.png",
+                            "saved": true,
+                            "size": 648
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png",
+                            "path": "img/binocular.png",
+                            "saved": true,
+                            "size": 621
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png",
+                            "path": "img/blue-document-excel.png",
+                            "saved": true,
+                            "size": 688
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png",
+                            "path": "img/blue-document-image.png",
+                            "saved": true,
+                            "size": 700
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png",
+                            "path": "img/blue-document-music.png",
+                            "saved": true,
+                            "size": 647
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png",
+                            "path": "img/blue-document-office.png",
+                            "saved": true,
+                            "size": 763
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png",
+                            "path": "img/blue-document-pdf.png",
+                            "saved": true,
+                            "size": 690
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png",
+                            "path": "img/blue-document-powerpoint.png",
+                            "saved": true,
+                            "size": 709
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png",
+                            "path": "img/blue-document-word.png",
+                            "saved": true,
+                            "size": 691
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png",
+                            "path": "img/bookmark.png",
+                            "saved": true,
+                            "size": 635
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png",
+                            "path": "img/camcorder.png",
+                            "saved": true,
+                            "size": 590
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/camera.png",
+                            "path": "img/camera.png",
+                            "saved": true,
+                            "size": 635
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/chart.png",
+                            "path": "img/chart.png",
+                            "saved": true,
+                            "size": 659
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png",
+                            "path": "img/chart-pie.png",
+                            "saved": true,
+                            "size": 1686
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/clock.png",
+                            "path": "img/clock.png",
+                            "saved": true,
+                            "size": 706
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/control.png",
+                            "path": "img/control.png",
+                            "saved": true,
+                            "size": 470
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/fire.png",
+                            "path": "img/fire.png",
+                            "saved": true,
+                            "size": 606
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/heart.png",
+                            "path": "img/heart.png",
+                            "saved": true,
+                            "size": 792
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/mail.png",
+                            "path": "img/mail.png",
+                            "saved": true,
+                            "size": 505
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png",
+                            "path": "img/plus-shield.png",
+                            "saved": true,
+                            "size": 756
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/icons/video.png",
+                            "path": "img/video.png",
+                            "saved": true,
+                            "size": 657
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62",
+                            "path": "fonts/vcpb-plugin-icons.eot",
+                            "saved": true,
+                            "size": 7668
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62",
+                            "path": "fonts/vcpb-plugin-icons.ttf",
+                            "saved": true,
+                            "size": 7464
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62",
+                            "path": "fonts/vcpb-plugin-icons.woff",
+                            "saved": true,
+                            "size": 7540
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62#vcpb-plugin-icons",
+                            "path": "img/vcpb-plugin-icons.svg",
+                            "saved": true,
+                            "size": 24504
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/toggle_open.png",
+                            "path": "img/toggle_open.png",
+                            "saved": true,
+                            "size": 223
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/toggle_close.png",
+                            "path": "img/toggle_close.png",
+                            "saved": true,
+                            "size": 168
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/flickr.png",
+                            "path": "img/flickr.png",
+                            "saved": true,
+                            "size": 198
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/vc/blur.svg#blur",
+                            "path": "img/blur.svg",
+                            "saved": true,
+                            "size": 126
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac",
+                            "path": "fonts/vc_grid_v1.eot",
+                            "saved": true,
+                            "size": 6024
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?#iefix-9hbgac",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac",
+                            "path": "fonts/vc_grid_v1.woff",
+                            "saved": true,
+                            "size": 5924
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac",
+                            "path": "fonts/vc_grid_v1.ttf",
+                            "saved": true,
+                            "size": 5848
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1",
+                            "path": "img/vc_grid_v1.svg",
+                            "saved": true,
+                            "size": 13215
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/images/spinner.gif",
+                            "path": "img/spinner.gif",
+                            "saved": true,
+                            "size": 673
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/vc/remove.png",
+                            "path": "img/remove.png",
+                            "saved": true,
+                            "size": 265
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:300%2C700%7COswald:700%7CRoboto:400&display=swap",
+                    "saved": false
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Roboto%3Anormal%2C500&subset=latin&ver=6.1.1",
+                    "saved": false
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Playfair+Display%3Anormal&subset=latin&ver=6.1.1",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-linecons/vc_linecons_icons.min.css?ver=6.10.0",
+                    "path": "css/vc_linecons_icons.min.css",
+                    "saved": true,
+                    "size": 2334,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-linecons/fonts/vc_linecons.eot?54101537",
+                            "path": "fonts/vc_linecons.eot",
+                            "saved": true,
+                            "size": 15572
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-linecons/fonts/vc_linecons.woff?54101537",
+                            "path": "fonts/vc_linecons.woff",
+                            "saved": true,
+                            "size": 27308
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-linecons/fonts/vc_linecons.ttf?54101537",
+                            "path": "fonts/vc_linecons.ttf",
+                            "saved": true,
+                            "size": 15404
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-linecons/fonts/vc_linecons.svg?54101537#vc_openiconic",
+                            "path": "img/vc_linecons.svg",
+                            "saved": true,
+                            "size": 95542
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&ver=6.10.0",
+                    "saved": false
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Playfair+Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic&ver=6.10.0",
+                    "saved": false
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/v4-shims.min.css?ver=6.10.0",
+                    "path": "css/v4-shims.min.css",
+                    "saved": true,
+                    "size": 34399
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min.css?ver=6.10.0",
+                    "path": "css/all.min.css",
+                    "saved": true,
+                    "size": 55858,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot",
+                            "saved": true,
+                            "size": 130906
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2",
+                            "saved": true,
+                            "size": 75368
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff",
+                            "saved": true,
+                            "size": 88428
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf",
+                            "saved": true,
+                            "size": 130600
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "img/fa-brands-400.svg",
+                            "saved": true,
+                            "size": 700503
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot",
+                            "saved": true,
+                            "size": 34394
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2",
+                            "saved": true,
+                            "size": 13564
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff",
+                            "saved": true,
+                            "size": 16804
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf",
+                            "saved": true,
+                            "size": 34096
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "img/fa-regular-400.svg",
+                            "saved": true,
+                            "size": 144452
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot",
+                            "saved": true,
+                            "size": 192758
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2",
+                            "saved": true,
+                            "size": 75760
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff",
+                            "saved": true,
+                            "size": 98384
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf",
+                            "saved": true,
+                            "size": 192472
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "img/fa-solid-900.svg",
+                            "saved": true,
+                            "size": 842605
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=6.10.0",
+                    "path": "css/js_composer_tta.min.css",
+                    "saved": true,
+                    "size": 273142
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/vc_openiconic.min.css?ver=6.10.0",
+                    "path": "css/vc_openiconic.min.css",
+                    "saved": true,
+                    "size": 6451,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/fonts/vc_openiconic.eot?54101537",
+                            "path": "fonts/vc_openiconic.eot",
+                            "saved": true,
+                            "size": 23448
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/fonts/vc_openiconic.woff?54101537",
+                            "path": "fonts/vc_openiconic.woff",
+                            "saved": true,
+                            "size": 13824
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/fonts/vc_openiconic.ttf?54101537",
+                            "path": "fonts/vc_openiconic.ttf",
+                            "saved": true,
+                            "size": 23260
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/js_composer/assets/css/lib/vc-open-iconic/fonts/vc_openiconic.svg?54101537#vc_openiconic",
+                            "path": "img/vc_openiconic.svg",
+                            "saved": true,
+                            "size": 42347
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.10",
+                    "path": "css/rs6.css",
+                    "saved": true,
+                    "size": 59495,
+                    "children": [
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888",
+                            "path": "fonts/revicons.eot",
+                            "saved": true,
+                            "size": 12136
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888",
+                            "path": "fonts/revicons.woff",
+                            "saved": true,
+                            "size": 7536
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888",
+                            "path": "fonts/revicons.ttf",
+                            "saved": true,
+                            "size": 11968
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons",
+                            "path": "img/revicons.svg",
+                            "saved": true,
+                            "size": 13691
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/css/openhand.cur",
+                            "path": "css/openhand.cur",
+                            "saved": true,
+                            "size": 326
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur",
+                            "path": "css/closedhand.cur",
+                            "saved": true,
+                            "size": 326
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png",
+                            "path": "img/gridtile.png",
+                            "saved": true,
+                            "size": 70
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png",
+                            "path": "img/gridtile_white.png",
+                            "saved": true,
+                            "size": 70
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png",
+                            "path": "img/gridtile_3x3.png",
+                            "saved": true,
+                            "size": 70
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png",
+                            "path": "img/gridtile_3x3_white.png",
+                            "saved": true,
+                            "size": 71
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png",
+                            "path": "img/coloredbg.png",
+                            "saved": true,
+                            "size": 90
+                        },
+                        {
+                            "url": "https://fokasbeyond.com/wp-content/plugins/revslider/public/assets/assets/loader.gif",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/03/cropped-FB-2.png",
+                    "path": "img/cropped-FB-2.png",
+                    "saved": true,
+                    "size": 10668
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/03/cropped-FB-2-32x32.png",
+                    "path": "img/cropped-FB-2-32x32.png",
+                    "saved": true,
+                    "size": 759
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/03/cropped-FB-2-192x192.png",
+                    "path": "img/cropped-FB-2-192x192.png",
+                    "saved": true,
+                    "size": 4898
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2021/03/cropped-FB-2-180x180.png",
+                    "path": "img/cropped-FB-2-180x180.png",
+                    "saved": true,
+                    "size": 4533
+                },
+                {
+                    "url": "https://fokasbeyond.com/wp-content/uploads/2022/12/Fokas-Beyond-Version-3C.png",
+                    "path": "img/Fokas-Beyond-Version-3C.png",
+                    "saved": true,
+                    "size": 267688
+                },
+                {
+                    "url": "https://player.vimeo.com/video/541428148?dnt=1&app_id=122963",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531518493?badge=0&autopause=0&player_id=0&app_id=58479&h=74d9765f16",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531519379?badge=0&autopause=0&player_id=0&app_id=58479&h=8f7ec9bbd0",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531520608?badge=0&autopause=0&player_id=0&app_id=58479&h=4e866c09e2",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531521077?badge=0&autopause=0&player_id=0&app_id=58479&h=8d8f0d790f",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531522801?badge=0&autopause=0&player_id=0&app_id=58479&h=40378c441a",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531523294?badge=0&autopause=0&player_id=0&app_id=58479&h=bb1397eb31",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531523668?badge=0&autopause=0&player_id=0&app_id=58479&h=a4be71aae3",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531523920?badge=0&autopause=0&player_id=0&app_id=58479&h=b49279be57",
+                    "saved": false
+                },
+                {
+                    "url": "https://player.vimeo.com/video/531525749?badge=0&autopause=0&player_id=0&app_id=58479&h=fdef1c6a06",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "fokasbeyond-com-f75cx475",
+    "info": {
+        "remark": [],
+        "title": "Stock Market and Online Trading - Training and Courses in Australia | Fokas Beyond",
+        "domain": "fokasbeyond.com",
+        "origin": "https://fokasbeyond.com",
+        "ip": "192.124.249.63",
+        "main": "index.html",
+        "url": "https://fokasbeyond.com/",
+        "totalSize": "16.3 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://fokasbeyond.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://fokasbeyond.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "Sucuri/Cloudproxy",
+                "date": "Sun, 26 Feb 2023 18:42:29 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "x-sucuri-id": "16013",
+                "x-xss-protection": "1; mode=block",
+                "x-frame-options": "SAMEORIGIN",
+                "x-content-type-options": "nosniff",
+                "content-security-policy": "upgrade-insecure-requests;",
+                "link": "<https://fokasbeyond.com/wp-json/>; rel=\"https://api.w.org/\", <https://fokasbeyond.com/wp-json/wp/v2/pages/9123>; rel=\"alternate\"; type=\"application/json\", <https://fokasbeyond.com/>; rel=shortlink",
+                "vary": "Accept-Encoding",
+                "accept-ranges": "none",
+                "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+                "x-server-cache": "false",
+                "x-sucuri-cache": "MISS"
+            }
+        },
+        "time": {
+            "start": "2023-02-26T18:42:25.511Z",
+            "end": "2023-02-26T18:43:23.110Z"
+        }
+    },
+    "options": {
+        "url": "https://fokasbeyond.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "html",
+            "css",
+            "js",
+            "saveOriginal"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
